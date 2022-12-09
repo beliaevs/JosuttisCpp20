@@ -1,0 +1,7 @@
+Release
+Debug
+*.exe
+*.pdb
+*.obj
+.vs
+
